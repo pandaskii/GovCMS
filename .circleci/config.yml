@@ -1,7 +1,7 @@
 version: '2.1'
 
 orbs:
-  tests: 'govcms/tests@3'
+  tests: 'govcms/tests@dev'
 
 workflows:
   test:

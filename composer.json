@@ -115,7 +115,7 @@
         "drupal/webform": "6.2.3",
         "govcms-assets/chosen": "2.2.1",
         "oomphinc/composer-installers-extender": "^2.0",
-        "simplesamlphp/simplesamlphp": "2.2.2",
+        "simplesamlphp/simplesamlphp": "2.3.2",
         "webflo/drupal-finder": "^1.2"
     },
     "require-dev": {
@@ -132,7 +132,8 @@
             "drupal/core-vendor-hardening": true,
             "phpstan/extension-installer": true,
             "php-http/discovery": true,
-            "simplesamlphp/composer-module-installer": true
+            "simplesamlphp/composer-module-installer": false,
+            "simplesamlphp/composer-xmlprovider-installer": false
         },
         "bin-dir": "bin/",
         "sort-packages": true,

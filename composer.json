@@ -133,7 +133,7 @@
             "phpstan/extension-installer": true,
             "php-http/discovery": true,
             "simplesamlphp/composer-module-installer": false,
-            "simplesamlphp/composer-xmlprovider-installer": false
+            "simplesamlphp/composer-xmlprovider-installer": false,
             "tbachert/spi": true
         },
         "bin-dir": "bin/",

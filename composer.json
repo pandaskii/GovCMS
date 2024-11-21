@@ -160,7 +160,7 @@
         "composer-exit-on-patch-failure": true,
         "patches": {
             "drupal/facets": {
-                "Fix for session not started": "https://www.drupal.org/files/issues/2024-11-21/3466281-7.patch"
+                "Creating requests causes failures on Drupal 10.3 - https://www.drupal.org/project/facets/issues/3466281": "https://www.drupal.org/files/issues/2024-11-21/3466281-7.patch"
             },
             "drupal/password_policy": {
                 "Apply password policies for SSO users - https://www.drupal.org/project/password_policy/issues/3366169": "https://www.drupal.org/files/issues/2024-07-25/password_policy-3366169-8.patch",

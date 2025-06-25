@@ -23,7 +23,10 @@ class Lifecycle {
     'swiftmailer',
     'tracker',
     'block_place',
-    'aggregator'
+    'aggregator',
+    'block_inactive_users',
+    'event_log_track_ui',
+    'panels', 
   ];
 
   /**

@@ -27,7 +27,7 @@ class Lifecycle {
     'block_inactive_users',
     'event_log_track_ui',
     'panels', 
-    'redirect_404',
+    'govcms8_layouts'
   ];
 
   /**

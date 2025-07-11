@@ -33,12 +33,12 @@
         "drupal/config_perms": "2.3.0",
         "drupal/config_split": "2.0.2",
         "drupal/config_update": "2.0.0-alpha4",
-        "drupal/consultation-consultation": "1.1.0",
+        "drupal/consultation-consultation": "1.0.4",
         "drupal/consumers": "1.19.0",
         "drupal/contact_storage": "1.4.0",
         "drupal/context": "5.0.0-rc2",
-        "drupal/core-composer-scaffold": "10.4.7",
-        "drupal/core-recommended": "10.4.7",
+        "drupal/core-composer-scaffold": "10.4.8",
+        "drupal/core-recommended": "10.4.8",
         "drupal/crop": "2.4.0",
         "drupal/ctools": "4.1.0",
         "drupal/devel": "5.3.1",
@@ -70,7 +70,7 @@
         "drupal/layout_builder_modal": "2.0.0",
         "drupal/layout_builder_restrictions": "3.0.3",
         "drupal/linked_field": "1.7.0",
-        "drupal/linkit": "7.0.4",
+        "drupal/linkit": "7.0.5",
         "drupal/login_security": "2.0.2",
         "drupal/mailsystem": "4.5.0",
         "drupal/media_bulk_upload": "3.0.3",
@@ -108,7 +108,7 @@
         "drupal/simple_oauth": "6.0.0",
         "drupal/simple_sitemap": "4.2.2",
         "drupal/simplesamlphp_auth": "4.0.1",
-        "drupal/symfony_mailer": "1.6.1",
+        "drupal/symfony_mailer": "1.5.0",
         "drupal/token": "1.15.0",
         "drupal/tfa": "1.10.0",
         "drupal/twig_tweak": "3.4.1",
@@ -122,6 +122,9 @@
     "require-dev": {
         "drupal/core-dev": "^10.2",
         "drush/drush": "~12"
+    },
+    "conflict": {
+        "dealerdirect/phpcodesniffer-composer-installer": "1.1.0"
     },
     "config": {
         "allow-plugins": {

@@ -39,13 +39,6 @@ function govcms_security_form_user_login_form_alter(&$form, &$form_state) {
 }
 
 /**
- * Implement hook_form_FORM_ID_alter()
- */
-function govcms_security_form_user_admin_settings_alter(&$form, FormStateInterface $form_state) {
-  $form['admin_role']['#access'] = FALSE;
-}
-
-/**
  * Implements hook_form_FORM_ID_alter().
  */
 function govcms_security_form_securitytxt_configure_alter(&$form, &$form_state) {

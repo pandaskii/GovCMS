@@ -26,8 +26,8 @@ class Lifecycle {
     'aggregator',
     'block_inactive_users',
     'event_log_track_ui',
-    'panels', 
-    'permissions_by_term'
+    'panels',
+    'jquery_ui_resizable',
   ];
 
   /**

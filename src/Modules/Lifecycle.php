@@ -26,8 +26,8 @@ class Lifecycle {
     'aggregator',
     'block_inactive_users',
     'event_log_track_ui',
-    'panels',
-    'field_layout',
+    'panels', 
+    'redirect_404',
   ];
 
   /**

@@ -28,6 +28,8 @@ class Lifecycle {
     'event_log_track_ui',
     'panels',
     'video_embed_field',
+    'jquery_ui_accordion',
+    'jquery_ui_resizable',
   ];
 
   /**

@@ -114,7 +114,7 @@
         "drupal/twig_tweak": "3.4.1",
         "drupal/username_enumeration_prevention": "1.4.0",
         "drupal/webform": "6.2.9",
-        "govcms-assets/chosen": "2.2.1",
+        "govcms-assets/chosen": "3.0.1",
         "oomphinc/composer-installers-extender": "^2.0",
         "simplesamlphp/simplesamlphp": "2.4.2",
         "webflo/drupal-finder": "^1.2"
